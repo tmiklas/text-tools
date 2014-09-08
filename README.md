@@ -1,7 +1,7 @@
 text-tools
 ==========
 
-Miscellaneous text tools I worte to in my projects, because sharing is caring
+Miscellaneous text tools I worte to use in my projects, because sharing is caring :-)
 
 trigrams.pl
 -----------
