@@ -42,3 +42,8 @@ LICENSE
 -------
 
 Please check the script source for licensing information - each script can be different in this respect but all will have licensing information available.
+
+CONTACT
+-------
+
+You can contact me via GitHub or find me on Twitter as [@tomaszmiklas](https://twitter.com/tomaszmiklas)
