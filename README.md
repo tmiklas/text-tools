@@ -6,9 +6,8 @@ Miscellaneous text tools I worte to in my projects, because sharing is caring
 trigrams.pl
 -----------
 
-> ## http://en.wikipedia.org/wiki/Trigram
 > Trigrams are a special case of the N-gram, where N is 3. They are often used in natural language processing for doing statistical analysis of texts. 
-
+> __http://en.wikipedia.org/wiki/Trigram__
 
 This is an English language implementation of trigrams I wrote about a year ago when playing with some crypto challenges (problem was how to programatically tell when key bruteforce attempt produced English-like plaintext). This is just a bit more complex idea than frequency analysis of individual letters.
 These days I use it mostly to process output from <code>strings</code> command and find English-like meaningful text instead sifting manually through thousands of lines of output.
